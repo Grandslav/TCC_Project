@@ -6,3 +6,4 @@ twython==3.4.0
 geojson==2.4.1
 mapbox==0.17.1
 PyGithub==1.43.2
+gunicorn==19.9.0
